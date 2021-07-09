@@ -1,1 +1,36 @@
+/* HEADER */
 
+#header-nav {
+  background-color: yellow;
+  height: 50px;
+  border-radius: 0;
+  border: 1px solid black;
+}
+
+.navbar-brand {
+  padding-top: 5px;
+  padding-bottom: 0px;
+}
+
+.navbar-brand h1 {
+  margin: 0px 0px 0px -50px;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+/* END HEADER */
+
+/* MAIN BODY */
+
+.row {
+  width: 100%;
+  margin: 5px 5px 5px 5px;
+
+}
+#main-content {
+  background-color: skyblue;
+  }
+
+/* END MAIN BODY */
