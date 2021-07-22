@@ -13,7 +13,7 @@
 }
 
 .navbar-brand h1 {
-  margin: 0px 0px 0px -50px;
+  margin: 0px 0px 0px 0px;
 }
 
 .navbar-brand a:hover, .navbar-brand a:focus {
@@ -29,8 +29,9 @@
   margin: 5px 5px 5px 5px;
 
 }
+
 #main-content {
   background-color: skyblue;
-  }
+}
 
 /* END MAIN BODY */
